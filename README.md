@@ -3,6 +3,12 @@
 This table is meant to be a community effort to list and categorize atmospheric models described in the literature. 
 The first version of this table appears in the review paper [[1]](#1).
 
+## How to contribute by adding your own entries to the table
+1. fork the project
+2. Pull and work on your version of the code
+3. Push your branch to your repository
+4. Create a pull request on the main project (See how to fork [here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+
 ## References
 <a id="1">[1]</a> 
 Simone Marras, James F Kelly, Margarida Moragues, Andreas Mueller, Michal A Kopera, Mariano Vazquez, Francis X Giraldo, Guillaume Houzeaux, Oriol Jorba (2015) 
